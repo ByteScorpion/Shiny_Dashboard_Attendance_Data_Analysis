@@ -1,4 +1,4 @@
-# Shiny Dashboard for Attendance Data Analysis
+# Data Analysis : Shiny dashboard application for analyzing Attendance Data
 
 This repository contains a Shiny dashboard application (or webpage) for analyzing attendance data. The dashboard is built using the `shinydashboard` package in R and provides an interactive way to explore and analyze attendance records.
 
