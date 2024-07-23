@@ -11,5 +11,5 @@ Select a specific Name and date range to see their behavior within that range.
 ![](gifs/TAB2.gif)
 
 ## Data Tab
-Raw Attendance Data.
+
 ![](gifs/TAB3.gif)
